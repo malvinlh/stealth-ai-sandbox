@@ -376,4 +376,4 @@ After editing the tilemaps, re-bake by selecting the `NavMeshSurface` GameObject
 
 ## AI Tools Used
 
-- **Claude Code**: used for architecture planning and initial code scaffolding. "All code was reviewed, and some was adjusted. Scene setup, asset wiring, level design, NavMesh setup, animator controllers, animation clips, and integration testing were done manually.
+- **Claude Code**: used for architecture planning and initial code scaffolding. All code was reviewed, and some was adjusted. Scene setup, asset wiring, level design, NavMesh setup, animator controllers, animation clips, and integration testing were done manually.
